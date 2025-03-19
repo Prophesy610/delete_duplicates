@@ -73,14 +73,14 @@ A duplicate file removal script can:
 
 ## **How It Works: The Magic of the Script**
 
-The script operates by scanning a designated folder or directory, comparing files based on various parameters such as:
+The script operates with the user inputting or dragging the designated folder or directory, comparing files based on various parameters such as:
 
 - **File size**  
 - **File content**  
 - **File names**  
 - **File hash (checksum)**  
 
-Once it identifies duplicates, the script prompts you to either delete them or move them to a different location, ensuring you don’t accidentally lose important data. The process is usually fast, efficient, and requires minimal input from the user.
+Once it identifies duplicates, the script delete them. The process is usually fast, efficient, and requires minimal input from the user.
 
 ---
 
